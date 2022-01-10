@@ -7,6 +7,7 @@ Developed using Netbeans IDE
 - Build Project
 - File->Project Properties(Webserver)->Run
 
+## Server Configuration
 
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
